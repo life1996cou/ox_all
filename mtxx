@@ -1,4 +1,4 @@
 ^https:\/\/api\.xiuxiu\.meitu\.com\/v1 url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mtxx.js
-^https:\/\/api\.xiuxiu\.meitu\.com\/v1 requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mtxx.js
+^https:\/\/api\.xiuxiu\.meitu\.com\/v1 requires-body=1 https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mtxx.js
 
 hostname= api.xiuxiu.meitu.com, h5.xiuxiu.meitu.com
