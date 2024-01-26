@@ -1,6 +1,3 @@
-[rewrite_local]
+^https:\/\/api\.busuu\.com\/users\/me* url script-response-body https://qxnav.com/rules/QuantumultX/js/yue/busuu.vip.js
 
-^https:\/\/api\.busuu\.com\/users\/me url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Busuu.js
-[mitm] 
-
-hostname = api.busuu.com
+hostname= api.busuu.com
